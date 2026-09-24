@@ -1,0 +1,9 @@
+/* Globale Basis. Design-Tokens aus Figma folgen im Schritt „Design-System". */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
